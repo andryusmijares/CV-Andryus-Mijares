@@ -1,0 +1,79 @@
+---
+title: "CV-Ingeniera de Petróleo - PM Ciberseguridad Industrial"
+author: "Andryus Mijares" 
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+![](ANDRYUS - MIJARES.jpg)
+
+# Ingeniera Andryus Mijares 
+
+
+#### __Datos personales__
+
+__Nacionalidad__ | __Edad__ |     __Ubicación__   | __Célular__  | __E-mail__| 
+:---------------:|:--------:|:-------------------:|:------------:|:---------------:|
+    Venezolana   | 37 años  |  Villa Urquiza-CABA | 11 3232-3644 | <ing.melinamijares@gmail.com>
+-----------------------------------------------------------------------------------
+
+
+#### __Perfil:__ 
+
+Ingeniera de Petróleo - Especialista en gestión de proyectos: Poseo más de 8 años de experiencia trabajando en distintos roles y proyectos tanto de yacimientos de hidrocarburos como del área comercial de energías renovables y de ciberseguridad de IT, actualmente pertenezco al equipo de la "Gerencia de ciberseguridad industrial e infraestructuras críticas" de YPF colaborando en las actividades relacionada a la gestión de riesgos de las distintas áreas de negocios y de la concientización y formación de ciberseguridad industrial. 
+
+
+#### __Experiencia:__
+
+__Año__                 | __Empresa__ | __Cargo__
+:----------------------:|:-----------:|:-------------------------------------------:|
+ __2022 - Actualmente__ | KPMG - YPF  | PM Consultora de Ciberseguridad Industrial
+        __2022__        | Service IT  | Account Manager de Ciberseguridad IT
+ __2021 - 2022__        | Iting       | Ingeniera de Preventa de Ciberseguridad IT
+------------------------------------------------------------------------
+
+
+#### __Estudios:__  
+
+* __2024__: Diplomatura de Extensión Universitaria en Gestión y Tecnologías para el Desarrollo Convencional y No Convencional de Hidrocarburos, UNPA-UACO.
+* __2023__: Diplomatura Ciberseguridad en Sistemas Industriales(ICS/OT)__, UNSTA.
+* __2019__: Postgrado: Gestión de Proyectos__,Universidad Tecnológica Nacional, UTN.
+* __2015__: Postgrado: Maestría en Gestión de la Energía, Universidad Nacional de Lanús UNLa.
+* __2015__: Postgrado: Especialización en Gerencia Integrada de Yacimientos de Hidrocarburos, Universidad Central de Venezuela UCV.
+* __2013__: Ingeniera de Petróleo, Universidad Central de Venezuela UCV.
+
+
+#### __Idioma:__ 
+
+* Inglés: Intermedio profesional. 
+
+
+#### __Habilidades técnicas:__ 
+
++  Conocimientos de PMI (gestión de proyectos).
++  Conocimientos de redes de comunicaciones LAN, MAN y WAN.
++  Conocimientos técnicos específicos en tecnologías de redes de control,  SCADA (Supervisory Control And Data Acquisition), HMI, RTU, DCS (distributed control system ), PLC, etc.
++  Conocimientos de arquitecturas y mejores prácticas de sistemas industriales. 
++  Experiencia en proyectos de seguridad de redes de automatización y control.
++  Conocimientos de redes inalámbricas 802.15.4 SCADA.
++ Conocimiento de normativas ISA99-IEC62443 y de la familia ISO 27000 / COBIT , ISO31000 e ISO22301.
++  Conocimientos  de seguridad en sistemas operativos Linux, Windows. 
++  Conocimientos básicos de ITIL y en general en operación de sistemas de gestión de incidentes.
++  Experiencia en análisis de vulnerabilidades y auditoria en general para este tipo de sistemas industrial.
++  Conocimiento y comprensión de normativas de Ciberseguridad industrial a nivel nacional e internacional.
+
+
+#### __Habilidades blandas:__ 
+
++  Autodidácta en constante aprendizaje.
++  Excelente relaciones interpersonales.
++  Resolutiva con mentalidad urgente y escasa.
++  Carismática con buena comunicación efectiva.
++  Trabajo en equipo, líder y enérgica.
++  Analítica, perseverante y emprendedora.
++  Adaptable a los cambios, optimista y resiliente.
++  Confiable, responsable, honesta y empática.
+
